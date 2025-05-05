@@ -1,4 +1,5 @@
 from activity.merge_sort import merge_sort
+import pytest
 
 def test_merge_sort_sorts_data():
     # arrange
